@@ -1,0 +1,3 @@
+mongo atlas connection
+
+    mongosh "mongodb+srv://cluster0.kju1p.mongodb.net/myFirstDatabase" --apiVersion 1 --username anflopezoc
